@@ -1,4 +1,4 @@
 # Git Lab (Main Branch Version)
 "Edited directly on GitHub."
-accidental text
-temporary line to remove later
+## Description
+A hands-on lab repository for practicing Git and Github.
